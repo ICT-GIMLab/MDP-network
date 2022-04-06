@@ -1,5 +1,5 @@
 # MDP-network
-Automatic generator for MDP-network
+Automatic generator for Multiple-stage Decentralized Propagation network (MDP-network)
 
 ## Quick Start
   1. modify python_script/Param_define.py 
